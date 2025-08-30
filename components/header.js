@@ -16,27 +16,27 @@ class Header extends HTMLElement {
             <li class="nav-item mr-2">
               <a class="nav-link" href="/">Home</a>
             </li>
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/education.html">Education</a>
-            </li>
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/experience.html">Experience</a>
-            </li>
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/skills.html">Skills</a>
-            </li>
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/teaching.html">Teaching</a>
-            </li>
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/projects.html">Projects</a>
-            </li> 
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/publications.html">Publications</a>
-            </li>
-            <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/blogposts.html">Blogs</a>
-            </li>
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/education.html">Education</a>
+            // </li>
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/experience.html">Experience</a>
+            // </li>
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/skills.html">Skills</a>
+            // </li>
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/teaching.html">Teaching</a>
+            // </li>
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/projects.html">Projects</a>
+            // </li> 
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/publications.html">Publications</a>
+            // </li>
+            // <li class="nav-item mr-2">
+            //   <a class="nav-link" href="/pages/blogposts.html">Blogs</a>
+            // </li>
           </ul>
         </div>
         </nav>
@@ -45,4 +45,4 @@ class Header extends HTMLElement {
   }
 }
 
-customElements.define('header-component', Header);
+// customElements.define('header-component', Header);
